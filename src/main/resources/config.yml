@@ -1,0 +1,83 @@
+# Placeholders: %rank_prefix%, %rank_suffix%, %rank_progressBar%
+# %rank_percent% & %rank_prestige%
+
+mysql:
+  host: us7.pear.urubuhost.com
+  port: 3306
+  database: s1554_redecyber
+  username: u1554_H30dEgRcM0
+  password: 8P=9aOBWRdF8=8r.bFyt1ZyK
+
+prestige:
+  title: "&6&lPRESTIGIO!"
+  # PlaceholderAPI %rank_prestige%
+  subtitle: "&fVocê upou para &7%rank_prestige%&f!"
+  actionbar: "&6&lPRESTIGIO! &8▸ &7%player% &fupou seu prestigio para &7%rank_prestige%&f!"
+
+evolution:
+  title: "&6&lGG!"
+  # PlaceholderAPI - %rank_prefix%, %rank_suffix%
+  subtitle: "&fVocê upou para %rank_suffix%"
+  actionbar: "&6&lRANK! &8▸ &7%jogador% &fupou seu nível para &7%rank_suffix%&f!"
+
+ranks:
+  1:
+    prefix: "&f&l1"
+    suffix: "&7[1]"
+    price: 200
+    commands:
+      - ""
+  2:
+    prefix: "&f&l2"
+    suffix: "&7[2]"
+    price: 5000
+    commands:
+      - ""
+  3:
+    prefix: "&f&l3"
+    suffix: "&7[3]"
+    price: 5000
+    commands:
+      - ""
+  4:
+    prefix: "&f&l4"
+    suffix: "&7[4]"
+    price: 5000
+    commands:
+      - ""
+  5:
+    prefix: "&f&l5"
+    suffix: "&7[5]"
+    price: 5000
+    commands:
+      - ""
+  6:
+    prefix: "&f&l6"
+    suffix: "&7[6]"
+    price: 5000
+    commands:
+      - ""
+  7:
+    prefix: "&f&l7"
+    suffix: "&7[7]"
+    price: 5000
+    commands:
+      - ""
+  8:
+    prefix: "&f&l8"
+    suffix: "&7[8]"
+    price: 5000
+    commands:
+      - ""
+  9:
+    prefix: "&f&l9"
+    suffix: "&7[9]"
+    price: 600
+    commands:
+      - ""
+  10:
+    prefix: "&f&l10"
+    suffix: "&7[10]"
+    price: 5000
+    commands:
+      - ""

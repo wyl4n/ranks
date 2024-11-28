@@ -1,0 +1,6 @@
+author: wylan
+name: EmpireRanks
+main: com.rankup.empire.rank.RankPlugin
+version: 0.1
+depend:
+  - PlaceholderAPI
